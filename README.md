@@ -29,7 +29,7 @@ A powerful and user-friendly desktop application for real-time people detection 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/selvipraveen252-png/people-tracking-system.git
+git clone https://github.com/selvipraveen252-png/People_Count.git
 cd people-tracking-system
 ```
 
@@ -225,8 +225,8 @@ pip install -r requirements.txt
 ## 📞 Support
 
 For issues, questions, or suggestions:
-- Open an [Issue](https://github.com/selvipraveen252-png/people-tracking-system/issues)
-- Check existing discussions in [Discussions](https://github.com/selvipraveen252-png/people-tracking-system/discussions)
+- Open an [Issue](https://github.com/selvipraveen252-png/People_Count/issues)
+- Check existing discussions in [Discussions](https://github.com/selvipraveen252-png/People_Count/discussions)
 
 ## 🙏 Acknowledgments
 
