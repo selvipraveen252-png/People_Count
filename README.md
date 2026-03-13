@@ -225,7 +225,7 @@ pip install -r requirements.txt
 ## 📞 Support
 
 For issues, questions, or suggestions:
-- Open an [Issue](https://github.com/yourusername/people-tracking-system/issues)
+- Open an [Issue](https://github.com/selvipraveen252/people-tracking-system/issues)
 - Check existing discussions in [Discussions](https://github.com/yourusername/people-tracking-system/discussions)
 
 ## 🙏 Acknowledgments
